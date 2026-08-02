@@ -6,7 +6,7 @@
 #
 
 DEVICE_PATH := device/alps/SQAIPAD-V11
-TARGET_DEVICE := SQAIPAD_V11
+TARGET_DEVICE := SQAIPAD-V11
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
