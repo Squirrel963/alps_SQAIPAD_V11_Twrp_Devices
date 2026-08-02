@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_SQAIPAD-V11-user
-add_lunch_combo omni_SQAIPAD-V11-userdebug
-add_lunch_combo omni_SQAIPAD-V11-eng
+add_lunch_combo omni_SQAIPAD_V11-user
+add_lunch_combo omni_SQAIPAD_V11-userdebug
+add_lunch_combo omni_SQAIPAD_V11-eng
