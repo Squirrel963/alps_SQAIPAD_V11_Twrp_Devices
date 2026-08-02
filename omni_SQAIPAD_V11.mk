@@ -15,7 +15,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from SQAIPAD-V11 device
 # $(call inherit-product, device/alps/SQAIPAD-V11/device.mk)
 
-PRODUCT_DEVICE := SQAIPAD_V11
+PRODUCT_DEVICE := SQAIPAD-V11
 PRODUCT_NAME := omni_SQAIPAD_V11
 PRODUCT_BRAND := SQAI
 PRODUCT_MODEL := SQAIPAD-V11
