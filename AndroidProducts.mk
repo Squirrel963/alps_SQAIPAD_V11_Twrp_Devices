@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_SQAIPAD-V11.mk
+    $(LOCAL_DIR)/omni_SQAIPAD_V11.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_SQAIPAD-V11-user \
-    omni_SQAIPAD-V11-userdebug \
-    omni_SQAIPAD-V11-eng
+    omni_SQAIPAD_V11-user \
+    omni_SQAIPAD_V11-userdebug \
+    omni_SQAIPAD_V11-eng
